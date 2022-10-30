@@ -6,6 +6,34 @@ from vehicle_field_generator.car_field_generator import *
 
 
 class VehicleGenerator:
+    """
+    Класс для генерации объекта Vehicle со случайными значениями полей.
+
+    ...
+
+    Attributes
+    ----------
+    guid_generator : GuidGenerator
+       генератор guid
+    start_date_generator : StartDateGenerator
+       генератор дата начала эксплуатации
+    end_date_generator : EndDateGenerator
+       генератор дата окончания эксплуатации
+    status_generator : StatusGenerator
+       генератор статуса
+    type_generator : TypeGenerator
+       генератор типа транспортного средства
+    brand_generator : BrandGenerator
+        генератор марки транспортного средства
+    driver_generator : DriverGenerator
+        генератор объекта Driver
+
+    Methods
+    -------
+    generate():
+       Генерирует объект Vehicle со случайными значениями полей.
+    """
+
     def __init__(self,
                  guid_generator: GuidGenerator,
                  start_date_generator: StartDateGenerator,
@@ -31,7 +59,7 @@ class VehicleGenerator:
             new_vehicle.set_status(self.status_generator.generate(new_vehicle.end_date))
 
         if random.choice((True, False)):
-            new_vehicle.set_type(self.type_generator.generate())
+            new_vehicle.set_vehicle_type(self.type_generator.generate())
 
         if random.choice((True, False)):
             new_vehicle.set_end_date(self.end_date_generator.generate(new_vehicle.start_date))

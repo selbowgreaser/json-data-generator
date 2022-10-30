@@ -1,10 +1,31 @@
 import random
 
+END_YEAR = 2022
+START_YEAR = 2000
+
 
 class StartDateGenerator:
+    """
+    Класс для генерации случайного значения даты начала эксплуатации транспортного средства.
+
+    ...
+
+    Attributes
+    ----------
+    start_year : int (default = START_YEAR)
+        минимально возможный год для генерации
+    end_year : int (default = END_YEAR)
+        максимально возможный год для генерации
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение даты начала эксплуатации транспортного средства.
+    """
+
     def __init__(self,
-                 start_year: int = 2000,
-                 end_year: int = 2022):
+                 start_year: int = START_YEAR,
+                 end_year: int = END_YEAR):
         self.start_year = start_year
         self.end_year = end_year
 

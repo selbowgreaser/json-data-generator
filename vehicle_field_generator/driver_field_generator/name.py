@@ -35,6 +35,22 @@ DEFAULT_NAMES = (
 
 
 class NameGenerator:
+    """
+    Класс для генерации случайного значения имени водителя.
+
+    ...
+
+    Attributes
+    ----------
+    available_names : tuple (default = DEFAULT_NAMES)
+        коллекция доступных имен для водителей
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение имени водителя.
+    """
+
     def __init__(self,
                  available_names: tuple = DEFAULT_NAMES):
         self.available_names = available_names

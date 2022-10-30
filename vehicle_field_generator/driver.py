@@ -5,6 +5,30 @@ from vehicle_field_generator.driver_field_generator import *
 
 
 class DriverGenerator:
+    """
+    Класс для генерации объекта Driver со случайными значениями полей.
+
+    ...
+
+    Attributes
+    ----------
+    name_generator : NameGenerator
+        генератор имени
+    surname_generator : SurnameGenerator
+        генератор фамилии
+    middle_name_generator : MiddleNameGenerator
+        генератор отчества
+    age_generator : AgeGenerator
+        генератор возраста
+    phone_num_generator : PhoneNumberGenerator
+        генератор номера телефона
+
+    Methods
+    -------
+    generate():
+        Генерирует объект Driver со случайными значениями полей.
+    """
+
     def __init__(self,
                  name_generator: NameGenerator,
                  surname_generator: SurnameGenerator,

@@ -13,6 +13,22 @@ DEFAULT_MIDDLE_NAMES = (
 
 
 class MiddleNameGenerator:
+    """
+    Класс для генерации случайного значения отчества водителя.
+
+    ...
+
+    Attributes
+    ----------
+    available_middle_names : tuple (default = DEFAULT_MIDDLE_NAMES)
+        коллекция доступных отчеств для водителей
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение отчества водителя.
+    """
+
     def __init__(self,
                  available_middle_names: tuple = DEFAULT_MIDDLE_NAMES):
         self.available_middle_names = available_middle_names

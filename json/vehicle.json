@@ -1,1196 +1,1166 @@
 [
     {
-        "guid": "5X8bcrZE-KiSQ-Ripu-zYJ5-l9DnUgjkzx10",
-        "start_date": "2003-06-06",
-        "end_date": null,
-        "status": "В ремонте",
-        "vehicle_type": null,
-        "brand": "Great Wall",
-        "driver": null
-    },
-    {
-        "guid": "ofVfhOhU-h8W7-pkA6-a3wl-AYbLKCAaUaA9",
-        "start_date": "2002-02-18",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Daihatsu",
-        "driver": {
-            "name": "Мирон",
-            "surname": "Орлов",
-            "middle_name": "Богданович",
-            "age": 20,
-            "phone_number": "+72402550007"
-        }
-    },
-    {
-        "guid": "3Rs2CzQX-Q7jm-tljj-AmZH-jb8UgipSfP47",
-        "start_date": "2010-02-27",
-        "end_date": "2026-02-18",
-        "status": "В ремонте",
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Ferrari",
-        "driver": null
-    },
-    {
-        "guid": "ByvP6DC2-pEvj-Cdhz-xBRb-gpeNqlUaxpSn",
-        "start_date": "2011-10-16",
+        "guid": "2PS4adP4-CiUa-6JGI-3UDg-CnhpQBaBiLP1",
+        "start_date": "2019-08-16",
         "end_date": null,
         "status": "Снят с эксплуатации",
-        "vehicle_type": "Автобус",
-        "brand": "Ferrari",
-        "driver": {
-            "name": "Герасим",
-            "surname": "Петров",
-            "middle_name": "Леонидович",
-            "age": 88,
-            "phone_number": "+70016902196"
-        }
-    },
-    {
-        "guid": "17lwiwWG-8nGI-RQDZ-oA11-fYSU7CN0PW4k",
-        "start_date": "2000-12-13",
-        "end_date": "2028-03-08",
-        "status": "В ремонте",
-        "vehicle_type": null,
-        "brand": "GMC",
-        "driver": {
-            "name": "Адам",
-            "surname": "Захаров",
-            "middle_name": null,
-            "age": 55,
-            "phone_number": "+73842151067"
-        }
-    },
-    {
-        "guid": "GX02SeW6-trAG-YViM-mK39-ykBMqmaVwjRK",
-        "start_date": "2022-07-15",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Daewoo",
-        "driver": {
-            "name": "Берек",
-            "surname": "Орлов",
-            "middle_name": null,
-            "age": 30,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "wUElOoNj-E99J-B0Dy-5fP8-Xh9J7TRHL264",
-        "start_date": "2020-10-21",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Buick",
-        "driver": null
-    },
-    {
-        "guid": "wkkRlVBh-4CoT-yPIN-F8Bs-1SNBS4UjkLvc",
-        "start_date": "2013-09-09",
-        "end_date": "2019-12-15",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Dacia",
-        "driver": {
-            "name": "Лев",
-            "surname": "Захаров",
-            "middle_name": "Петрович",
-            "age": 80,
-            "phone_number": "+75334649559"
-        }
-    },
-    {
-        "guid": "jgA22LCf-8vaZ-WDun-yssh-Ye6qmWjaQ8uj",
-        "start_date": "2009-11-19",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Exeed",
-        "driver": null
-    },
-    {
-        "guid": "9dtLukxo-SRT1-W05D-aOsD-5pel76Epf32F",
-        "start_date": "2011-10-15",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Skoda",
-        "driver": {
-            "name": "Ипполит",
-            "surname": "Новиков",
-            "middle_name": "Ярославович",
-            "age": 23,
-            "phone_number": "+70050892331"
-        }
-    },
-    {
-        "guid": "uyp5HtsA-wk4R-rCEr-GbdL-YsZOAr5SzYIO",
-        "start_date": "2012-01-26",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Мотоцикл",
-        "driver": null
-    },
-    {
-        "guid": "XlvILQbJ-gAWn-Z18h-l6dZ-ad87K1sP5BnV",
-        "start_date": "2009-02-15",
-        "end_date": "2027-01-15",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Lifan",
-        "driver": {
-            "name": "Самвел",
-            "surname": "Новиков",
-            "middle_name": null,
-            "age": 87,
-            "phone_number": "+70257081936"
-        }
-    },
-    {
-        "guid": "2ZqBAd8H-qgrg-wC6B-mPVP-QRpNzdNkmuw2",
-        "start_date": "2020-02-01",
-        "end_date": "2029-12-18",
-        "status": "Активный",
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Mazda",
-        "driver": {
-            "name": "Натан",
-            "surname": "Фёдоров",
-            "middle_name": null,
-            "age": 58,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "NRYtTvCJ-DJ8M-inWe-5Jcb-MeyNuR7s0CbV",
-        "start_date": "2018-09-28",
-        "end_date": "2022-02-18",
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Cadillac",
-        "driver": null
-    },
-    {
-        "guid": "oLcSbXgk-ZbC9-MkLU-0wae-HJU4QPpsXUAg",
-        "start_date": "2006-01-30",
-        "end_date": "2012-04-24",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Infiniti",
-        "driver": null
-    },
-    {
-        "guid": "AyoNYebt-MLJs-8FLn-TPNw-47ZsoUVYk96i",
-        "start_date": "2020-06-26",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Daewoo",
-        "driver": {
-            "name": "Флор",
-            "surname": "Павлов",
-            "middle_name": null,
-            "age": 51,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "NhEQI8tC-jJmP-DWzo-I4cr-KPSexDGrapXC",
-        "start_date": "2022-02-11",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "ЗАЗ",
-        "driver": {
-            "name": "Артем",
-            "surname": "Лебедев",
-            "middle_name": "Петрович",
-            "age": 23,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "g6dZmsQy-uaao-yZ1A-gOdE-rIOXYCAfylXY",
-        "start_date": "2016-10-31",
-        "end_date": "2018-10-11",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Chevrolet",
-        "driver": null
-    },
-    {
-        "guid": "RMHhgQCd-B9H0-8eMG-fTzt-CgIKzf83UyD5",
-        "start_date": "2003-10-28",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Mazda",
-        "driver": {
-            "name": "Ильнар",
-            "surname": "Петров",
-            "middle_name": "Александрович",
-            "age": 31,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "t2C0KE8Q-Jv8Z-mdqR-mAQO-o8t5kYdX3ej4",
-        "start_date": "2009-11-24",
-        "end_date": null,
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Great Wall",
-        "driver": null
-    },
-    {
-        "guid": "AJXLzbAc-hXE3-I17e-sTf0-SO9YTDtGj3ML",
-        "start_date": "2006-12-01",
-        "end_date": "2022-08-22",
-        "status": "В ремонте",
-        "vehicle_type": null,
-        "brand": "Nissan",
-        "driver": {
-            "name": "Тихон",
-            "surname": "Кузнецов",
-            "middle_name": null,
-            "age": 93,
-            "phone_number": "+71752792927"
-        }
-    },
-    {
-        "guid": "zVgVPyTI-Hgjk-twMj-qaTt-sYM3wDPJUt66",
-        "start_date": "2021-04-13",
-        "end_date": "2022-08-08",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Dodge",
-        "driver": {
-            "name": "Клим",
-            "surname": "Кузнецов",
-            "middle_name": null,
-            "age": 24,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "4YwPHlGL-Li1f-69fS-Y2NF-PQXAkyYEYu2d",
-        "start_date": "2019-04-21",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Lifan",
-        "driver": null
-    },
-    {
-        "guid": "HLqYUpQm-UljE-0exr-8nwd-n9VN9Cgph5gg",
-        "start_date": "2007-10-20",
-        "end_date": "2016-03-01",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Автобус",
-        "brand": "Lancia",
-        "driver": {
-            "name": "Лаврентий",
-            "surname": "Лебедев",
-            "middle_name": null,
-            "age": 77,
-            "phone_number": "+76808070829"
-        }
-    },
-    {
-        "guid": "p9Bx3g4N-36C6-e8Gt-O8v5-Wj7BhBQel0qa",
-        "start_date": "2001-07-09",
-        "end_date": "2021-11-13",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Jaguar",
-        "driver": {
-            "name": "Алей",
-            "surname": "Морозов",
-            "middle_name": null,
-            "age": 39,
-            "phone_number": "+77790000416"
-        }
-    },
-    {
-        "guid": "9z04ICoo-AFVH-3eEs-ulzz-daW9PQ79Xz4N",
-        "start_date": "2015-02-20",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Marussia",
-        "driver": null
-    },
-    {
-        "guid": "hTE7imGa-RLBj-MXYw-vpgK-phe6L7Zkzb7N",
-        "start_date": "2007-08-10",
-        "end_date": "2015-02-20",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Ferrari",
-        "driver": null
-    },
-    {
-        "guid": "HpVZtakG-W64r-WoCv-I0EM-QDXZLa1UwW2u",
-        "start_date": "2020-09-11",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Skoda",
-        "driver": null
-    },
-    {
-        "guid": "zHbngaUr-Gbw0-PV20-mDWV-BgbkLMMKLuPb",
-        "start_date": "2000-11-24",
-        "end_date": "2025-08-19",
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Mazda",
-        "driver": null
-    },
-    {
-        "guid": "hMnPxBg9-Ohnh-UnhB-Ftv4-oS30np9nqfSi",
-        "start_date": "2015-04-13",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Maserati",
-        "driver": {
-            "name": "Рахим",
-            "surname": "Захаров",
-            "middle_name": "Андреевич",
-            "age": 18,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "5VoHQWvG-Xl67-dQFy-Oe3u-AE3zuLre4d16",
-        "start_date": "2008-12-10",
-        "end_date": null,
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Great Wall",
-        "driver": null
-    },
-    {
-        "guid": "d14IoGLC-lra6-WFb4-kaje-0ILrm3Q1yMv0",
-        "start_date": "2022-06-26",
-        "end_date": "2026-06-03",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Tagaz",
-        "driver": null
-    },
-    {
-        "guid": "3kOIZDhn-71op-b0uT-2jzS-DiDNTAJlzCls",
-        "start_date": "2006-04-14",
-        "end_date": "2021-11-30",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Land Rover",
-        "driver": {
-            "name": "Станислав",
-            "surname": "Волков",
-            "middle_name": "Витальевич",
-            "age": 81,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "RQOYp5kW-t1BP-Ehhb-mIwq-eNKVm4b0C9aO",
-        "start_date": "2004-04-12",
-        "end_date": null,
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Changan",
-        "driver": {
-            "name": "Захар",
-            "surname": "Алексеев",
-            "middle_name": "Антонович",
-            "age": 41,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "236j3ig6-wtCv-oJCo-ywyV-Zgib8zBLMRCK",
-        "start_date": "2004-08-16",
-        "end_date": null,
-        "status": "Активный",
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Porsche",
-        "driver": null
-    },
-    {
-        "guid": "qMUeyinP-XrdT-1AQ5-RXJ1-Km1PXfnYAsxo",
-        "start_date": "2020-12-08",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Opel",
-        "driver": {
-            "name": "Лавр",
-            "surname": "Соколов",
-            "middle_name": "Леонидович",
-            "age": 89,
-            "phone_number": "+74368930011"
-        }
-    },
-    {
-        "guid": "8KOfP7iG-vOOq-aF4A-rguP-VLPJvTMTCrsM",
-        "start_date": "2015-12-13",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Smart",
-        "driver": {
-            "name": "Сулейман",
-            "surname": "Кузнецов",
-            "middle_name": null,
-            "age": 23,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "7ngAdZAD-GsPJ-9Qxr-W2Xt-rBwKl7cGBFIF",
-        "start_date": "2007-01-05",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Brilliance",
-        "driver": null
-    },
-    {
-        "guid": "fE7rRofU-xOBj-boiO-iLIx-wHlx8voiddTx",
-        "start_date": "2022-12-27",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Mercedes",
-        "driver": {
-            "name": "Иннокентий",
-            "surname": "Новиков",
-            "middle_name": null,
-            "age": 92,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "bv7cdjVW-m33b-DRSm-3LhZ-djHRDg3djzPa",
-        "start_date": "2005-07-18",
-        "end_date": "2019-11-26",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Автобус",
-        "brand": "Subaru",
-        "driver": null
-    },
-    {
-        "guid": "4cCklroh-vRGN-pSDx-oJOs-VzmjlX0HtzRz",
-        "start_date": "2020-07-26",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Kia",
-        "driver": null
-    },
-    {
-        "guid": "OorxPO2m-k1jd-CYrh-GEWw-xnryPJ5BUprr",
-        "start_date": "2006-06-26",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Bugatti",
-        "driver": {
-            "name": "Григорий",
-            "surname": "Попов",
-            "middle_name": "Львович",
-            "age": 94,
-            "phone_number": "+72865791641"
-        }
-    },
-    {
-        "guid": "a81d9i6A-2hgM-M8PB-i6AY-qZABL2hyWeKf",
-        "start_date": "2002-02-10",
-        "end_date": "2030-01-30",
-        "status": null,
         "vehicle_type": null,
         "brand": "Mclaren",
-        "driver": null
-    },
-    {
-        "guid": "ZWL7wVT9-X38O-HCLa-hZib-78hKB6tTiexi",
-        "start_date": "2021-01-29",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Skoda",
-        "driver": null
-    },
-    {
-        "guid": "OUpjdefj-Q7RQ-Hkpr-PaVk-nEMrCyEuP5pP",
-        "start_date": "2014-07-30",
-        "end_date": "2022-11-09",
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Lancia",
         "driver": {
-            "name": "Виктор",
-            "surname": "Иванов",
-            "middle_name": "Робертович",
-            "age": 19,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "hHg8CVJA-Nnnq-5ga6-o0i7-a1sLEMXJCzag",
-        "start_date": "2007-12-30",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Kia",
-        "driver": {
-            "name": "Онисим",
-            "surname": "Морозов",
+            "name": "Кондрат",
+            "surname": "Козлов",
             "middle_name": null,
-            "age": 57,
-            "phone_number": "+73052313157"
+            "age": 36,
+            "phone_number": "+75064619502"
         }
     },
     {
-        "guid": "pXBmNDSG-sen9-u5Ev-cd68-pgEsF8vdMuuW",
-        "start_date": "2022-02-18",
+        "guid": "JuODZ1aW-7bht-l7B6-N0oo-Saz5puVk7oV4",
+        "start_date": "2013-08-16",
         "end_date": null,
-        "status": "В ремонте",
+        "status": null,
         "vehicle_type": null,
-        "brand": "Porsche",
-        "driver": null
-    },
-    {
-        "guid": "OVsin1eG-PtLR-o5Jk-41bW-I4TV2jMR2ObW",
-        "start_date": "2008-04-30",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Автобус",
-        "brand": "Hummer",
-        "driver": null
-    },
-    {
-        "guid": "tmml7mfu-rjG9-PXBq-e8Jp-H2wdQDPr5Yt0",
-        "start_date": "2010-10-13",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Mercedes",
-        "driver": null
-    },
-    {
-        "guid": "L4Uvrcqc-G3YO-HlCb-zJqg-CXDNpTGI0OWO",
-        "start_date": "2007-05-15",
-        "end_date": "2009-02-13",
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Lincoln",
-        "driver": null
-    },
-    {
-        "guid": "sV1ajSPc-H9b3-SG4B-XRtF-UR59uK6N9MyA",
-        "start_date": "2014-06-17",
-        "end_date": "2019-11-28",
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Hummer",
+        "brand": "Honda",
         "driver": {
-            "name": "Ашот",
-            "surname": "Иванов",
-            "middle_name": "Павлович",
-            "age": 94,
+            "name": "Аристарх",
+            "surname": "Соколов",
+            "middle_name": "Константинович",
+            "age": 34,
             "phone_number": null
         }
     },
     {
-        "guid": "OR0enhiL-7FLi-gASe-xIug-41KOaGX56eKY",
-        "start_date": "2001-06-02",
-        "end_date": "2010-02-03",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Ssangyong",
-        "driver": null
-    },
-    {
-        "guid": "BVNBtYiG-qrh4-SdiU-Wpzo-1A9h4SXGB8ct",
-        "start_date": "2011-05-12",
+        "guid": "yf85DAK8-BmC9-ZQvo-1Xsz-yOA5VndgH5sZ",
+        "start_date": "2010-11-15",
         "end_date": null,
         "status": null,
         "vehicle_type": null,
-        "brand": "Tesla",
-        "driver": {
-            "name": "Вадим",
-            "surname": "Михайлов",
-            "middle_name": "Яковлевич",
-            "age": 88,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "MuYArtkt-Db37-GaX1-5dYF-njUmgLVvaONn",
-        "start_date": "2017-01-01",
-        "end_date": "2030-08-05",
-        "status": "Активный",
-        "vehicle_type": "Автобус",
         "brand": "Smart",
         "driver": {
-            "name": "Назар",
-            "surname": "Кузнецов",
+            "name": "Святослав",
+            "surname": "Новиков",
             "middle_name": null,
-            "age": 30,
-            "phone_number": null
+            "age": 36,
+            "phone_number": "+78762195260"
         }
     },
     {
-        "guid": "t1XJjoua-ALSs-z7rv-yquK-5EdyUbk0gFLf",
-        "start_date": "2022-02-12",
-        "end_date": "2025-10-03",
+        "guid": "s3syawOE-RyBh-5n71-iEkC-0ehuCkiaF0ul",
+        "start_date": "2009-03-22",
+        "end_date": "2019-06-04",
         "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Hummer",
-        "driver": {
-            "name": "Ролан",
-            "surname": "Никитин",
-            "middle_name": null,
-            "age": 38,
-            "phone_number": "+76730241732"
-        }
-    },
-    {
-        "guid": "4daalZ8n-nx5b-JB6v-DYvh-JYgrVyN1McDP",
-        "start_date": "2022-12-20",
-        "end_date": "2025-09-19",
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Citroen",
-        "driver": {
-            "name": "Аггей",
-            "surname": "Смирнов",
-            "middle_name": "Богданович",
-            "age": 57,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "hRFIJaxy-Mt5h-AmCP-3rny-cn40BSthqQH9",
-        "start_date": "2021-06-14",
-        "end_date": "2023-12-27",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Lotus",
-        "driver": {
-            "name": "Ермолай",
-            "surname": "Кузнецов",
-            "middle_name": "Андреевич",
-            "age": 60,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "KSOhkpAL-HN0J-Gxzy-9QvX-R4DUzj0cgTuc",
-        "start_date": "2004-02-14",
-        "end_date": "2005-04-23",
-        "status": "Активный",
         "vehicle_type": null,
         "brand": "Faw",
         "driver": null
     },
     {
-        "guid": "KLj6tSCO-K6BH-1aL5-7LIW-RJR1wX4n4ga6",
-        "start_date": "2012-09-09",
-        "end_date": "2014-09-03",
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Brilliance",
-        "driver": null
-    },
-    {
-        "guid": "2HelLsIM-l2aK-yIFj-EUeQ-8vK7avBGBy0O",
-        "start_date": "2020-04-28",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Mclaren",
-        "driver": null
-    },
-    {
-        "guid": "ImrJ8dMK-2Cv0-YwZg-gcOZ-HA7M1HcDblm9",
-        "start_date": "2006-01-16",
-        "end_date": "2010-04-21",
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Audi",
-        "driver": {
-            "name": "Христиан",
-            "surname": "Васильев",
-            "middle_name": "Иваныч",
-            "age": 28,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "QwLkYvIr-e65i-GHiH-fXgN-EVUiYimafXOP",
-        "start_date": "2006-01-17",
-        "end_date": "2030-06-28",
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Buick",
-        "driver": null
-    },
-    {
-        "guid": "nWRmHWBd-GLgZ-yy5W-hKWV-w3NiuEvxXCI3",
-        "start_date": "2010-03-07",
+        "guid": "0oIN52vg-l2u0-PWzV-DGe8-dgDe37s6yi3K",
+        "start_date": "2018-02-05",
         "end_date": null,
         "status": "В ремонте",
-        "vehicle_type": null,
-        "brand": "Москвич",
-        "driver": null
-    },
-    {
-        "guid": "nufTHNfr-ihLc-GZSw-mLN5-7PmKsWBaC8cM",
-        "start_date": "2022-05-21",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Fiat",
-        "driver": null
-    },
-    {
-        "guid": "GhrNoRfb-pixR-eetg-aJZm-Y8QJGZd16NFy",
-        "start_date": "2022-02-21",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Jeep",
-        "driver": null
-    },
-    {
-        "guid": "0CsVulg8-KrsE-aes0-pYeJ-ODaamtg5Zqo3",
-        "start_date": "2008-11-09",
-        "end_date": "2009-03-06",
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Skoda",
-        "driver": null
-    },
-    {
-        "guid": "MvYDPkz6-brpD-UfLW-iBiU-ja3gPz7tVGSu",
-        "start_date": "2015-11-12",
-        "end_date": null,
-        "status": "В ремонте",
-        "vehicle_type": "Автобус",
-        "brand": "Hummer",
-        "driver": {
-            "name": "Франц",
-            "surname": "Соколов",
-            "middle_name": null,
-            "age": 97,
-            "phone_number": "+73953972265"
-        }
-    },
-    {
-        "guid": "eWxggGGY-Fp6I-dMTR-4jPW-VW4JFKgpLw5e",
-        "start_date": "2005-07-27",
-        "end_date": null,
-        "status": "Активный",
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Maybach",
-        "driver": null
-    },
-    {
-        "guid": "RnnIBLM7-Z7p0-O8sn-taN5-wQ3rEJ5qwXVd",
-        "start_date": "2000-05-07",
-        "end_date": "2002-01-30",
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Rolls-Royce",
-        "driver": {
-            "name": "Артем",
-            "surname": "Фёдоров",
-            "middle_name": "Максимович",
-            "age": 31,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "EjiGXmHC-j745-HRmd-L8s0-6LdokPc0ZHXQ",
-        "start_date": "2007-04-19",
-        "end_date": null,
-        "status": "Активный",
-        "vehicle_type": null,
-        "brand": "Jeep",
-        "driver": {
-            "name": "Никифор",
-            "surname": "Морозов",
-            "middle_name": null,
-            "age": 40,
-            "phone_number": "+71948362913"
-        }
-    },
-    {
-        "guid": "qmywTMuC-9pQD-4yzl-59So-odWHvoXHxekw",
-        "start_date": "2014-04-22",
-        "end_date": "2015-04-17",
-        "status": null,
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Audi",
-        "driver": {
-            "name": "Дементий",
-            "surname": "Петров",
-            "middle_name": "Платонович",
-            "age": 78,
-            "phone_number": "+72298483281"
-        }
-    },
-    {
-        "guid": "fITzZ6pb-JVyV-VWPB-IC7y-4w1lGVMitFi0",
-        "start_date": "2006-08-23",
-        "end_date": null,
-        "status": null,
         "vehicle_type": "Легковой автомобиль",
-        "brand": "Geely",
+        "brand": "Mercedes",
         "driver": {
-            "name": "Виссарион",
-            "surname": "Смирнов",
-            "middle_name": null,
-            "age": 97,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "w8EtNFQH-7vJW-Fd3W-BPcL-Q41q7WUt8jQd",
-        "start_date": "2015-03-23",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Dacia",
-        "driver": {
-            "name": "Градимир",
-            "surname": "Орлов",
-            "middle_name": null,
-            "age": 68,
-            "phone_number": "+75388204509"
-        }
-    },
-    {
-        "guid": "tHMnOSWF-K3OF-akKR-8Rqa-3VIRwRXKJXol",
-        "start_date": "2022-01-27",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Brilliance",
-        "driver": null
-    },
-    {
-        "guid": "878i7kNH-K5wt-1iuQ-WhAg-AkFiVMyUns6o",
-        "start_date": "2020-08-17",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "ЗАЗ",
-        "driver": null
-    },
-    {
-        "guid": "z2B1fb3r-yY8W-t9a8-a7ux-zObioVrBXgYS",
-        "start_date": "2012-06-27",
-        "end_date": "2020-03-22",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Tagaz",
-        "driver": null
-    },
-    {
-        "guid": "57KRhLDS-NQ34-UZNq-AjJg-EmTPni4rEvBK",
-        "start_date": "2011-04-07",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Geely",
-        "driver": {
-            "name": "Андрей",
+            "name": "Адриан",
             "surname": "Иванов",
             "middle_name": null,
-            "age": 70,
-            "phone_number": "+79410078093"
+            "age": 34,
+            "phone_number": null
         }
     },
     {
-        "guid": "2sUKHzon-LM7P-y5fj-ZceR-WWu7py9sxoEi",
-        "start_date": "2018-07-27",
-        "end_date": "2022-12-09",
+        "guid": "DG3cUsmJ-tNrv-M3zd-ArCA-pFBJOinzQCTO",
+        "start_date": "2000-04-20",
+        "end_date": "2001-06-27",
+        "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Mazda",
+        "driver": null
+    },
+    {
+        "guid": "gKcHOuOn-0n4d-ZkDj-4hNL-rnPPMyxGmqIO",
+        "start_date": "2020-03-19",
+        "end_date": "2022-03-22",
         "status": null,
+        "vehicle_type": "Автобус",
+        "brand": "ГАЗ",
+        "driver": null
+    },
+    {
+        "guid": "jxJ3Lix6-As9W-eMIN-5OZX-040oyYmGyJRP",
+        "start_date": "2015-04-17",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Chevrolet",
+        "driver": {
+            "name": "Герасим",
+            "surname": "Морозов",
+            "middle_name": null,
+            "age": 35,
+            "phone_number": "+71826949757"
+        }
+    },
+    {
+        "guid": "Uv3Sviks-cRF5-UJWG-xEPl-9QAnRJGwrbjZ",
+        "start_date": "2020-10-10",
+        "end_date": null,
+        "status": "Активный",
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Jeep",
+        "driver": {
+            "name": "Флор",
+            "surname": "Петров",
+            "middle_name": null,
+            "age": 35,
+            "phone_number": "+71318015548"
+        }
+    },
+    {
+        "guid": "3Bu8pEf8-x7Zb-45ed-GtYg-Nfchgg4BnHLg",
+        "start_date": "2022-08-30",
+        "end_date": "2030-10-10",
+        "status": "В ремонте",
         "vehicle_type": null,
         "brand": "ВАЗ",
         "driver": null
     },
     {
-        "guid": "3HHpyYXQ-yOZP-c2md-It3K-4fiejLGEIn5i",
-        "start_date": "2000-12-10",
+        "guid": "gE1xFl7E-3mJU-vJGQ-JDD8-VkMGUdJW7E0t",
+        "start_date": "2006-03-05",
         "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Honda",
-        "driver": null
-    },
-    {
-        "guid": "iJx788A4-Olm5-ik77-W662-nQidx0TCzYmL",
-        "start_date": "2003-11-04",
-        "end_date": "2012-03-19",
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Lotus",
-        "driver": {
-            "name": "Франц",
-            "surname": "Морозов",
-            "middle_name": "Кириллович",
-            "age": 64,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "AsNg07dR-Fn3x-yH3A-rlai-TwVtom54kzJD",
-        "start_date": "2013-03-17",
-        "end_date": "2014-10-10",
-        "status": "В ремонте",
-        "vehicle_type": null,
-        "brand": "Pontiac",
-        "driver": {
-            "name": "Эмиль",
-            "surname": "Семёнов",
-            "middle_name": null,
-            "age": 20,
-            "phone_number": "+75886264563"
-        }
-    },
-    {
-        "guid": "BjFQjzW9-Y9tb-NwHv-FyXl-ZIiCTur3Wdxd",
-        "start_date": "2005-06-05",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Ssangyong",
-        "driver": {
-            "name": "Денис",
-            "surname": "Морозов",
-            "middle_name": "Михайлович",
-            "age": 57,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "ozwKb2ZP-ZPg3-QwIJ-VUXZ-9mfEQwwR4Kcq",
-        "start_date": "2020-03-13",
-        "end_date": "2022-12-22",
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Porsche",
-        "driver": null
-    },
-    {
-        "guid": "9RUaHWAG-jXSy-4kPY-IZxv-CaQceUMa1rAH",
-        "start_date": "2022-11-04",
-        "end_date": null,
-        "status": "Активный",
-        "vehicle_type": "Грузовой автомобиль",
-        "brand": "Brilliance",
-        "driver": {
-            "name": "Глеб",
-            "surname": "Волков",
-            "middle_name": "Ефимович",
-            "age": 60,
-            "phone_number": "+75694183197"
-        }
-    },
-    {
-        "guid": "CGxJbq5s-2PLr-U8lZ-rvAQ-X5PVheFxZHvo",
-        "start_date": "2008-02-11",
-        "end_date": "2027-08-02",
-        "status": null,
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Mclaren",
-        "driver": null
-    },
-    {
-        "guid": "SCvnVl3g-20A1-GpzD-Gupa-rmoOZkZ0SPM8",
-        "start_date": "2006-05-01",
-        "end_date": "2019-09-12",
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Suzuki",
-        "driver": {
-            "name": "Донат",
-            "surname": "Павлов",
-            "middle_name": null,
-            "age": 75,
-            "phone_number": "+72644926545"
-        }
-    },
-    {
-        "guid": "BiaAMhtJ-7AwX-fiN4-F20M-ErvSDZTYXOsU",
-        "start_date": "2008-08-09",
-        "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Hummer",
-        "driver": {
-            "name": "Эльдар",
-            "surname": "Кузнецов",
-            "middle_name": "Степанович",
-            "age": 52,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "v9lmPo3N-3KEj-ILb6-KYkC-Io7ZKWydkXbg",
-        "start_date": "2016-04-05",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": null,
-        "brand": "Seat",
-        "driver": null
-    },
-    {
-        "guid": "Gp5JLDd4-khQc-uxTc-Z05W-calAJoxA4WHg",
-        "start_date": "2017-01-14",
-        "end_date": "2022-10-18",
-        "status": "Снят с эксплуатации",
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Dodge",
-        "driver": null
-    },
-    {
-        "guid": "pmDKAoOg-YfHI-ZPrs-ppfC-zuCeH8A3wZyR",
-        "start_date": "2020-11-22",
-        "end_date": null,
-        "status": "В ремонте",
-        "vehicle_type": null,
-        "brand": "Chevrolet",
-        "driver": {
-            "name": "Назарий",
-            "surname": "Степанов",
-            "middle_name": "Феликсович",
-            "age": 74,
-            "phone_number": null
-        }
-    },
-    {
-        "guid": "V0BWsO9v-s2n1-yR9j-09yh-mf4G6rHByQNa",
-        "start_date": "2001-06-18",
-        "end_date": null,
-        "status": null,
-        "vehicle_type": "Автобус",
-        "brand": "Lincoln",
-        "driver": null
-    },
-    {
-        "guid": "gmpscNjb-WeGw-PmWK-pSvL-KBb1v1rymzQt",
-        "start_date": "2014-12-13",
-        "end_date": "2018-03-28",
         "status": null,
         "vehicle_type": "Грузовой автомобиль",
-        "brand": "Faw",
+        "brand": "Ferrari",
         "driver": {
-            "name": "Агафон",
-            "surname": "Фёдоров",
-            "middle_name": "Владиславович",
-            "age": 77,
+            "name": "Абрам",
+            "surname": "Лебедев",
+            "middle_name": null,
+            "age": 35,
             "phone_number": null
         }
     },
     {
-        "guid": "gn0zh8Q8-lwVC-bdiF-UqH7-fQdfbwP1hVpD",
-        "start_date": "2000-10-06",
-        "end_date": "2025-10-21",
-        "status": "Снят с эксплуатации",
+        "guid": "VGTPTI6Q-oNtQ-LdMa-3145-7UHj32HWvHXg",
+        "start_date": "2018-03-24",
+        "end_date": null,
+        "status": null,
         "vehicle_type": null,
         "brand": "Lifan",
         "driver": null
     },
     {
-        "guid": "j66w44HV-wfDv-qj9R-1k3d-LZZkxSYF8G4n",
-        "start_date": "2017-01-03",
-        "end_date": "2025-10-25",
+        "guid": "iYWdc5Gf-hJlf-GPXQ-pZOl-SSMcvizksJot",
+        "start_date": "2004-07-12",
+        "end_date": "2019-04-27",
+        "status": "Активный",
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Maserati",
+        "driver": null
+    },
+    {
+        "guid": "XJovPahi-uiD9-aqDp-gI0P-5aunopQ8Hjuy",
+        "start_date": "2008-06-05",
+        "end_date": "2020-06-27",
         "status": "Снят с эксплуатации",
         "vehicle_type": null,
+        "brand": "Subaru",
+        "driver": null
+    },
+    {
+        "guid": "lOzbDIxa-6mqa-9xWj-JGTe-fM37MHHYvbPV",
+        "start_date": "2002-10-31",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Daihatsu",
+        "driver": null
+    },
+    {
+        "guid": "pfDlrx4O-7XGW-wD7c-OzrU-iYGmWl9JLZKL",
+        "start_date": "2000-05-29",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Москвич",
+        "driver": {
+            "name": "Ричард",
+            "surname": "Степанов",
+            "middle_name": "Игоревич",
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "EDWW8VSH-BO6v-GERL-70RV-2Uqp0YT4LZei",
+        "start_date": "2004-10-11",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Ford",
+        "driver": {
+            "name": "Роман",
+            "surname": "Волков",
+            "middle_name": "Богданович",
+            "age": 33,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "ZXyp9j1Z-EL6e-GP5A-L4Tj-ED5HgDFEsNkN",
+        "start_date": "2012-01-22",
+        "end_date": null,
+        "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Chrysler",
+        "driver": {
+            "name": "Демьян",
+            "surname": "Павлов",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": "+72449072332"
+        }
+    },
+    {
+        "guid": "U81ZKZjE-vz6D-GGrw-vdkA-wD7DdZk2k5WK",
+        "start_date": "2007-10-05",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Lamborghini",
+        "driver": null
+    },
+    {
+        "guid": "NXZGJjCI-f0Ru-M0qd-YLxl-NIegqAMHmZRu",
+        "start_date": "2021-04-18",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Subaru",
+        "driver": null
+    },
+    {
+        "guid": "9QyNBJ9o-jEc0-4tli-6wv8-53FB47JCruKf",
+        "start_date": "2017-04-03",
+        "end_date": "2021-09-02",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Volkswagen",
+        "driver": {
+            "name": "Дорофей",
+            "surname": "Морозов",
+            "middle_name": null,
+            "age": 35,
+            "phone_number": "+78911042140"
+        }
+    },
+    {
+        "guid": "IkRpxmHQ-OtFQ-IidA-RU5g-meV977mHSWxU",
+        "start_date": "2014-04-09",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Автобус",
+        "brand": "Pontiac",
+        "driver": null
+    },
+    {
+        "guid": "Who3AkwN-gQbl-uieY-bMBb-m9r0rSIJ210T",
+        "start_date": "2007-08-29",
+        "end_date": "2009-10-27",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Volvo",
+        "driver": null
+    },
+    {
+        "guid": "AafzL1nE-RO6x-0HKT-siOZ-CvpD9qms0SCH",
+        "start_date": "2014-07-07",
+        "end_date": null,
+        "status": "Активный",
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Mercedes",
+        "driver": null
+    },
+    {
+        "guid": "8alIYP3k-URYZ-CIRP-iuku-Hcol4IifklF2",
+        "start_date": "2001-04-11",
+        "end_date": null,
+        "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Smart",
+        "driver": null
+    },
+    {
+        "guid": "WD09N6fT-NzVI-0ucs-Como-iG4rl9YX04nl",
+        "start_date": "2015-11-09",
+        "end_date": "2027-03-03",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Jaguar",
+        "driver": null
+    },
+    {
+        "guid": "b9oTWO8s-iGZQ-DEMP-e3B0-PXtJk9kX7E1j",
+        "start_date": "2013-10-24",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Mazda",
+        "driver": {
+            "name": "Вениамин",
+            "surname": "Морозов",
+            "middle_name": "Олегович",
+            "age": 34,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "NSMXS8UX-q8nf-57Wn-orZ6-p8nwtPvwV8L0",
+        "start_date": "2007-11-02",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Buick",
+        "driver": null
+    },
+    {
+        "guid": "HE1HwJhd-NqVW-WtAD-fkHB-sdlnu7BnxjvC",
+        "start_date": "2013-06-25",
+        "end_date": "2020-10-30",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Hyundai",
+        "driver": null
+    },
+    {
+        "guid": "GcKpykaw-dE9r-RRy8-ybY9-Lq3Z10SQx2xJ",
+        "start_date": "2009-08-13",
+        "end_date": null,
+        "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Suzuki",
+        "driver": {
+            "name": "Аслан",
+            "surname": "Новиков",
+            "middle_name": "Романович",
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "RBMsIpQw-2HIi-XuvI-A8BX-9hcHGUi1axdv",
+        "start_date": "2003-05-30",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Москвич",
+        "driver": null
+    },
+    {
+        "guid": "rr3eudtj-Qj9w-bFXc-Gs45-SJJgn546pAu8",
+        "start_date": "2007-05-04",
+        "end_date": "2023-03-21",
+        "status": null,
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Infiniti",
+        "driver": {
+            "name": "Степан",
+            "surname": "Иванов",
+            "middle_name": null,
+            "age": 37,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "BuDjLNX4-vvnN-0ls9-2VXf-fQ6pmD4Rjj30",
+        "start_date": "2014-06-06",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
         "brand": "Daewoo",
         "driver": null
     },
     {
-        "guid": "l4jwGkEs-hkqe-IHJp-tn9e-iNgwy94B4CTK",
-        "start_date": "2010-01-14",
-        "end_date": "2030-11-02",
-        "status": "Активный",
-        "vehicle_type": "Легковой автомобиль",
-        "brand": "Chrysler",
+        "guid": "R2HvL2x7-WEXl-lxAu-FiAX-D3bPr9QOO30f",
+        "start_date": "2001-06-30",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Автобус",
+        "brand": "Audi",
         "driver": {
-            "name": "Юлий",
-            "surname": "Морозов",
-            "middle_name": null,
-            "age": 92,
-            "phone_number": "+73661713024"
+            "name": "Ян",
+            "surname": "Иванов",
+            "middle_name": "Северинович",
+            "age": 37,
+            "phone_number": null
         }
     },
     {
-        "guid": "tLFYzpiC-IDF2-2tgd-utyg-kdo0Jcaa8JYS",
-        "start_date": "2011-12-20",
-        "end_date": "2022-07-26",
+        "guid": "s83O8g80-Ufis-roe7-HCYw-KLYIsR9XYoRi",
+        "start_date": "2017-12-27",
+        "end_date": "2024-05-05",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Seat",
+        "driver": {
+            "name": "Максим",
+            "surname": "Макаров",
+            "middle_name": "Исаакович",
+            "age": 34,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "JpKjOvTD-s6SU-gspT-EXiQ-ETza5Tll4XfJ",
+        "start_date": "2001-11-03",
+        "end_date": null,
+        "status": "Активный",
+        "vehicle_type": null,
+        "brand": "Chery",
+        "driver": {
+            "name": "Адам",
+            "surname": "Егоров",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "9iBjKGlO-Xksu-bXrF-31oX-0V1yAHdwsbxz",
+        "start_date": "2009-08-14",
+        "end_date": "2018-02-26",
+        "status": null,
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Rolls-Royce",
+        "driver": null
+    },
+    {
+        "guid": "O6ZBOk96-SJNm-nIbE-kLZk-fid3F1KShRtq",
+        "start_date": "2002-12-14",
+        "end_date": "2022-05-15",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Mclaren",
+        "driver": {
+            "name": "Иван",
+            "surname": "Морозов",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "CofdHAVu-lXbD-Gx9p-1sYw-mwx6EwXCbsh2",
+        "start_date": "2004-03-27",
+        "end_date": "2007-06-12",
+        "status": null,
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Dodge",
+        "driver": {
+            "name": "Амаяк",
+            "surname": "Соколов",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "rhS5MpNZ-AB0g-EvYp-knl8-24UoltKltcnS",
+        "start_date": "2008-08-01",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Автобус",
+        "brand": "Seat",
+        "driver": {
+            "name": "Арно",
+            "surname": "Николаев",
+            "middle_name": "Валерьевич",
+            "age": 34,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "KIiAFNlT-pkWs-sPns-f7RJ-nXKc3X6X0TbG",
+        "start_date": "2011-01-31",
+        "end_date": "2024-10-06",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Daewoo",
+        "driver": null
+    },
+    {
+        "guid": "xt2l8JYz-tTUb-Pc3W-K6GU-qRsrMdMaejho",
+        "start_date": "2005-03-23",
+        "end_date": "2027-02-20",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Infiniti",
+        "driver": {
+            "name": "Бежен",
+            "surname": "Семёнов",
+            "middle_name": "Дмитриевич",
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "jjgRJL7p-3sxC-oHrx-6wAT-GQUp1AKS5j5o",
+        "start_date": "2004-10-28",
+        "end_date": "2015-07-09",
+        "status": "Активный",
+        "vehicle_type": null,
+        "brand": "Mitsubishi",
+        "driver": null
+    },
+    {
+        "guid": "UOD43KQS-mHjp-RFTI-jgg8-Z5FzUPSLeC2J",
+        "start_date": "2015-12-26",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Acura",
+        "driver": null
+    },
+    {
+        "guid": "L72JSkWd-pFcY-SeAV-r08u-eIOiOgvuV2jK",
+        "start_date": "2017-10-03",
+        "end_date": "2024-06-19",
+        "status": "Активный",
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Volkswagen",
+        "driver": {
+            "name": "Амвросий",
+            "surname": "Захаров",
+            "middle_name": "Ефимович",
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "LUHR2MuU-lOz4-UiaZ-v9Un-f3bCrfK74m3Y",
+        "start_date": "2018-02-16",
+        "end_date": "2028-03-01",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "BMW",
+        "driver": null
+    },
+    {
+        "guid": "tZkbxnA9-LwIG-fbKY-bi5z-A8SyXLGXUuoG",
+        "start_date": "2015-11-30",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Haval",
+        "driver": {
+            "name": "Зиновий",
+            "surname": "Никитин",
+            "middle_name": "Аркадьевич",
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "W0WSM7B4-OuyV-vENT-Mvvn-GtPKSgz5VhXn",
+        "start_date": "2014-07-13",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Lancia",
+        "driver": null
+    },
+    {
+        "guid": "2YUvh2aa-2q8P-K5pS-wv9p-xDXMumbeBCoh",
+        "start_date": "2008-11-04",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Автобус",
+        "brand": "ЗАЗ",
+        "driver": {
+            "name": "Андрей",
+            "surname": "Фёдоров",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "fkOMNoro-okpC-x9Ua-z3ES-w5G06APeP3lq",
+        "start_date": "2019-12-23",
+        "end_date": null,
+        "status": "Активный",
+        "vehicle_type": null,
+        "brand": "Pontiac",
+        "driver": {
+            "name": "Мурат",
+            "surname": "Петров",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": "+76797283891"
+        }
+    },
+    {
+        "guid": "qQV9xvV3-Pzj1-quDB-3CsC-IgEH21IvSESF",
+        "start_date": "2002-02-27",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Marussia",
+        "driver": {
+            "name": "Яким",
+            "surname": "Смирнов",
+            "middle_name": "Северинович",
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "iGuFgqyg-gkHi-xnHn-cwa7-gGGOHAsxn5DS",
+        "start_date": "2009-09-01",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Lamborghini",
+        "driver": null
+    },
+    {
+        "guid": "SZTSyI72-2KTg-eSw6-VVDt-htbSxWSfTrTR",
+        "start_date": "2004-07-11",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Audi",
+        "driver": {
+            "name": "Агафон",
+            "surname": "Егоров",
+            "middle_name": null,
+            "age": 34,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "5uuXVA1c-3iXc-yRsv-SFKi-D6yNVZqgf0gf",
+        "start_date": "2003-11-08",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Peugeot",
+        "driver": {
+            "name": "Елисей",
+            "surname": "Смирнов",
+            "middle_name": null,
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "GEZiiZf6-MT38-bMwu-hE51-YiN61cXStWpZ",
+        "start_date": "2000-07-02",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Cadillac",
+        "driver": null
+    },
+    {
+        "guid": "8MmyxSu2-sjqv-buiB-2Sfq-EJszsIrHU183",
+        "start_date": "2011-03-12",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Suzuki",
+        "driver": null
+    },
+    {
+        "guid": "SXJCkzYY-24G1-M7BP-NyYh-PZuQZqgqyhs9",
+        "start_date": "2021-05-17",
+        "end_date": "2022-06-25",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Seat",
+        "driver": null
+    },
+    {
+        "guid": "RU62PzWc-hhKg-AVXj-ixeN-YHuOXhu9eORG",
+        "start_date": "2003-04-28",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Ssangyong",
+        "driver": null
+    },
+    {
+        "guid": "C466F9V8-E0yr-Mf5C-HTe1-r9je4cGpeokh",
+        "start_date": "2007-09-23",
+        "end_date": "2015-01-12",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Mercedes",
+        "driver": {
+            "name": "Игорь",
+            "surname": "Никитин",
+            "middle_name": "Ярославович",
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "lfaYosr4-lkd6-OSKg-orb1-aOa49to95n4H",
+        "start_date": "2017-11-05",
+        "end_date": "2024-05-19",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "ГАЗ",
+        "driver": null
+    },
+    {
+        "guid": "KWAcxvPR-onjQ-BdBW-4kYy-s0mDiqn3oqIn",
+        "start_date": "2013-11-07",
+        "end_date": "2020-11-19",
+        "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Nissan",
+        "driver": {
+            "name": "Берек",
+            "surname": "Лебедев",
+            "middle_name": "Платонович",
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "6nQ4EqtD-ACZK-ozIo-Nvzj-83bQ3CK56VjT",
+        "start_date": "2005-02-24",
+        "end_date": "2026-04-23",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Honda",
+        "driver": null
+    },
+    {
+        "guid": "eA8kRJEw-vkQG-Zkoe-0oI6-QT4AHEIlQwI4",
+        "start_date": "2013-04-05",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Dacia",
+        "driver": null
+    },
+    {
+        "guid": "xl9Md8J5-9j9W-MOfx-XeIn-Z0UIjkI058zG",
+        "start_date": "2020-07-05",
+        "end_date": "2029-05-19",
+        "status": "Активный",
+        "vehicle_type": null,
+        "brand": "Geely",
+        "driver": null
+    },
+    {
+        "guid": "p9wVEeKI-5eIt-90b1-7c6n-Ani5fd7AyPwu",
+        "start_date": "2005-10-23",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Toyota",
+        "driver": null
+    },
+    {
+        "guid": "WgpWX9QD-mWSs-d7AJ-wqrv-GsjoZBrGJs0n",
+        "start_date": "2009-03-15",
+        "end_date": "2023-09-19",
         "status": null,
         "vehicle_type": null,
         "brand": "Volkswagen",
         "driver": null
     },
     {
-        "guid": "9ZeKdAIW-hOaG-SFTy-kVu7-Jo6xMwhNQCU1",
-        "start_date": "2015-06-27",
+        "guid": "ar0SfFT1-ZOa3-dPTm-D1vC-dLyZ5xGdM6uM",
+        "start_date": "2011-10-30",
         "end_date": null,
-        "status": "Снят с эксплуатации",
-        "vehicle_type": null,
-        "brand": "Maserati",
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Pontiac",
         "driver": null
     },
     {
-        "guid": "il7CtCt1-nw2P-Zla2-4GLV-tMYgEqaeVyqF",
-        "start_date": "2022-09-28",
+        "guid": "DJXMSb1K-DyGl-lczY-r3cL-7n9saDh22mCG",
+        "start_date": "2013-08-16",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Автобус",
+        "brand": "Ford",
+        "driver": null
+    },
+    {
+        "guid": "RNMreG72-MBgN-xv7z-kAh6-ywxGwBlGcFLn",
+        "start_date": "2000-01-25",
+        "end_date": "2014-10-10",
+        "status": "В ремонте",
+        "vehicle_type": "Автобус",
+        "brand": "Infiniti",
+        "driver": null
+    },
+    {
+        "guid": "I97Ff8eB-WTfK-ZZ1J-jspN-GwwmGwBRtvNm",
+        "start_date": "2012-11-07",
+        "end_date": "2022-09-21",
+        "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Datsun",
+        "driver": null
+    },
+    {
+        "guid": "LVvbsRke-pqik-Je5r-M38R-01NHKCUBFidj",
+        "start_date": "2011-10-09",
+        "end_date": "2013-11-04",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Lotus",
+        "driver": {
+            "name": "Бертран",
+            "surname": "Фёдоров",
+            "middle_name": "Павлович",
+            "age": 36,
+            "phone_number": "+72944241511"
+        }
+    },
+    {
+        "guid": "0I8tTRNm-4QDI-0RCv-qI6G-7nJW3pAepPwk",
+        "start_date": "2002-01-01",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Volvo",
+        "driver": {
+            "name": "Евграф",
+            "surname": "Степанов",
+            "middle_name": "Анатольевич",
+            "age": 34,
+            "phone_number": "+79569585889"
+        }
+    },
+    {
+        "guid": "9asvg39j-y8J8-fxJ9-YgUJ-viG3v02Jfh9t",
+        "start_date": "2005-04-20",
+        "end_date": "2011-11-14",
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Chery",
+        "driver": null
+    },
+    {
+        "guid": "5HuMhNTI-EqxT-zzOa-RxcW-AJtCHcxOVuWB",
+        "start_date": "2011-10-18",
+        "end_date": "2014-08-17",
+        "status": null,
+        "vehicle_type": "Автобус",
+        "brand": "Mitsubishi",
+        "driver": null
+    },
+    {
+        "guid": "opodONZU-RnoN-fM0E-fmEA-q0znrKwEVpTj",
+        "start_date": "2011-05-03",
+        "end_date": "2017-01-14",
+        "status": "Активный",
+        "vehicle_type": "Автобус",
+        "brand": "Changan",
+        "driver": null
+    },
+    {
+        "guid": "ZL28JN6o-C2lZ-bakX-AAS1-cZn28aaa784s",
+        "start_date": "2022-11-13",
+        "end_date": "2029-12-20",
+        "status": "В ремонте",
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Tagaz",
+        "driver": {
+            "name": "Руслан",
+            "surname": "Смирнов",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "7IqX4Cg4-N2rS-om3Z-OHbN-cTfsZpIxqAfo",
+        "start_date": "2000-03-25",
         "end_date": null,
         "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Marussia",
+        "driver": {
+            "name": "Клим",
+            "surname": "Кузнецов",
+            "middle_name": "Олегович",
+            "age": 36,
+            "phone_number": "+77230631793"
+        }
+    },
+    {
+        "guid": "HGjXKv9j-PFbN-yhdB-i7va-28caXuXr3EGv",
+        "start_date": "2014-11-26",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Renault",
+        "driver": null
+    },
+    {
+        "guid": "TMlShf4W-qlSQ-LCuO-CR5L-lXH5waRbT2Xr",
+        "start_date": "2015-03-07",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": "Грузовой автомобиль",
+        "brand": "Haval",
+        "driver": {
+            "name": "Радомир",
+            "surname": "Волков",
+            "middle_name": "Олегович",
+            "age": 34,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "IDZkJeKG-1Cwh-MlBS-yWZG-EuZ7lmRsHiUG",
+        "start_date": "2010-08-29",
+        "end_date": null,
+        "status": "Активный",
+        "vehicle_type": null,
+        "brand": "Volkswagen",
+        "driver": null
+    },
+    {
+        "guid": "t7Rtbh0d-iRGg-01HU-EAHA-2boB9MZ4j2Mc",
+        "start_date": "2015-09-10",
+        "end_date": "2016-06-13",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Datsun",
+        "driver": {
+            "name": "Айрат",
+            "surname": "Алексеев",
+            "middle_name": null,
+            "age": 36,
+            "phone_number": "+70109158130"
+        }
+    },
+    {
+        "guid": "63oiwAjJ-EfsZ-nUub-Sf8W-oPJVdxCrSnVm",
+        "start_date": "2009-10-14",
+        "end_date": "2028-02-11",
+        "status": "Активный",
+        "vehicle_type": null,
+        "brand": "Pontiac",
+        "driver": {
+            "name": "Григорий",
+            "surname": "Егоров",
+            "middle_name": null,
+            "age": 37,
+            "phone_number": "+72442669529"
+        }
+    },
+    {
+        "guid": "qixLKB0j-2GTH-nDWr-Uzx3-LpW3woEmAYLU",
+        "start_date": "2015-01-02",
+        "end_date": "2026-10-02",
+        "status": null,
+        "vehicle_type": "Автобус",
+        "brand": "Pontiac",
+        "driver": {
+            "name": "Владислав",
+            "surname": "Алексеев",
+            "middle_name": "Валентинович",
+            "age": 34,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "90qmRtfS-J3aQ-dneI-J2co-cIaPtcITUvmM",
+        "start_date": "2018-08-27",
+        "end_date": "2030-08-29",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": "Автобус",
+        "brand": "BMW",
+        "driver": null
+    },
+    {
+        "guid": "194sKLnM-2OYR-sXqk-29wG-ZCKBv5tGDUt4",
+        "start_date": "2017-05-02",
+        "end_date": "2019-04-16",
+        "status": "В ремонте",
+        "vehicle_type": "Автобус",
+        "brand": "Alfa Romeo",
+        "driver": null
+    },
+    {
+        "guid": "4PUBcVmF-aAEj-XanY-L0eC-E7WxPvfMP3Ar",
+        "start_date": "2005-11-10",
+        "end_date": "2010-01-20",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Hyundai",
+        "driver": {
+            "name": "Гавриил",
+            "surname": "Лебедев",
+            "middle_name": null,
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "GWra9rKo-KkMv-UJgv-7e7d-Ccy5WN4euFAX",
+        "start_date": "2015-02-02",
+        "end_date": "2030-09-18",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Chrysler",
+        "driver": {
+            "name": "Лаврентий",
+            "surname": "Семёнов",
+            "middle_name": "Станиславович",
+            "age": 35,
+            "phone_number": "+70643292311"
+        }
+    },
+    {
+        "guid": "mEEgLOdO-UQND-9m5L-uP6R-zJXoFigxTaJv",
+        "start_date": "2011-05-24",
+        "end_date": "2027-02-23",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Chevrolet",
+        "driver": null
+    },
+    {
+        "guid": "qoPQwQ79-jhxE-kmFr-30Z6-0IvtWkyHMZ9M",
+        "start_date": "2021-06-25",
+        "end_date": "2025-07-22",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Pontiac",
+        "driver": null
+    },
+    {
+        "guid": "IHgrqwTQ-kcqf-EnNx-PPEC-zZy9yYO1ZAbQ",
+        "start_date": "2014-12-08",
+        "end_date": "2018-05-04",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Toyota",
+        "driver": null
+    },
+    {
+        "guid": "am0vYYDY-yAzT-JDWN-ZhqB-OMvuNBdj28Kp",
+        "start_date": "2010-05-20",
+        "end_date": "2017-03-16",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Mini",
+        "driver": null
+    },
+    {
+        "guid": "4HNoecLV-g5BI-R3e1-6rNG-w439geG2D3W0",
+        "start_date": "2000-05-07",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Toyota",
+        "driver": {
+            "name": "Илларион",
+            "surname": "Лебедев",
+            "middle_name": null,
+            "age": 37,
+            "phone_number": "+72955867483"
+        }
+    },
+    {
+        "guid": "6RO4ZoIQ-JMoG-E5Os-ACRM-4rPWoAXDFiwL",
+        "start_date": "2011-08-21",
+        "end_date": "2015-10-16",
+        "status": "Снят с эксплуатации",
+        "vehicle_type": null,
+        "brand": "Datsun",
+        "driver": {
+            "name": "Аслан",
+            "surname": "Степанов",
+            "middle_name": "Эдуардович",
+            "age": 36,
+            "phone_number": "+79408305843"
+        }
+    },
+    {
+        "guid": "MupRGf2p-G2WI-zHst-kbDi-k89Z4kuGdCml",
+        "start_date": "2017-08-17",
+        "end_date": "2024-05-25",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Aston Martin",
+        "driver": null
+    },
+    {
+        "guid": "vBxZFVdg-zf7c-hA6r-8Gxz-FoYYHo1OsNzM",
+        "start_date": "2012-04-18",
+        "end_date": "2021-12-27",
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Genesis",
+        "driver": null
+    },
+    {
+        "guid": "51WKDRz1-ikLs-fcmm-TJkq-6BrioP2vCuLD",
+        "start_date": "2016-04-24",
+        "end_date": null,
+        "status": null,
+        "vehicle_type": null,
+        "brand": "Citroen",
+        "driver": null
+    },
+    {
+        "guid": "tYaPhv3U-w2FV-zD42-fuhK-pyo0KsdAEAsR",
+        "start_date": "2013-10-31",
+        "end_date": null,
+        "status": "В ремонте",
+        "vehicle_type": null,
+        "brand": "Rover",
+        "driver": {
+            "name": "Амаяк",
+            "surname": "Васильев",
+            "middle_name": "Егорович",
+            "age": 35,
+            "phone_number": null
+        }
+    },
+    {
+        "guid": "mcCGwKZi-nMlP-xQ3I-d78k-aDfPWuc3XiFo",
+        "start_date": "2018-01-25",
+        "end_date": null,
+        "status": "Снят с эксплуатации",
         "vehicle_type": "Легковой автомобиль",
-        "brand": "Ferrari",
+        "brand": "Lamborghini",
         "driver": {
-            "name": "Арам",
+            "name": "Валерий",
             "surname": "Фёдоров",
-            "middle_name": "Алексеевич",
-            "age": 22,
-            "phone_number": "+79419438552"
+            "middle_name": null,
+            "age": 35,
+            "phone_number": null
         }
     },
     {
-        "guid": "6YOxUtcS-LNaD-BlvS-XgXl-WUkGkvTjrK8Z",
-        "start_date": "2004-09-03",
-        "end_date": "2011-02-12",
+        "guid": "bCWcRaGb-gao9-Q6BK-GxsP-K7nrFDWlC3Kd",
+        "start_date": "2011-04-10",
+        "end_date": null,
         "status": null,
         "vehicle_type": null,
-        "brand": "Porsche",
-        "driver": {
-            "name": "Эдвард",
-            "surname": "Фёдоров",
-            "middle_name": "Сергеевич",
-            "age": 32,
-            "phone_number": "+73621798855"
-        }
+        "brand": "Lancia",
+        "driver": null
     },
     {
-        "guid": "IG7FUsmq-jMdr-ctJj-gXJu-K5VuD9XCgF1M",
-        "start_date": "2015-07-11",
-        "end_date": "2030-06-26",
+        "guid": "EznhALDB-TWLg-5iUY-J4PJ-U5PNpCeozwC0",
+        "start_date": "2006-10-10",
+        "end_date": "2029-04-21",
         "status": null,
-        "vehicle_type": null,
-        "brand": "Mercedes",
+        "vehicle_type": "Легковой автомобиль",
+        "brand": "Lexus",
         "driver": null
     }
 ]

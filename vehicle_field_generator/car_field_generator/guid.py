@@ -5,6 +5,28 @@ TEMPLATE_GUID = (8, 4, 4, 4, 12)
 
 
 class GuidGenerator:
+    """
+    Класс для генерации случайного значения guid.
+
+    ...
+
+    Attributes
+    ----------
+    template_guid : tuple (default = TEMPLATE_GUID)
+        шаблон представления guid
+    lowercase_letters_flag : bool (default = True)
+        флаг включения в список доступных символов букв в нижнем регистре
+    uppercase_letters_flag : bool (default = True)
+        флаг включения в список доступных символов букв в верхнем регистре
+    digits_flag : bool (default = True)
+        флаг включения в список доступных символов цифр
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение guid по шаблону.
+    """
+
     def __init__(self,
                  template_guid: tuple = TEMPLATE_GUID,
                  lowercase_letters_flag: bool = True,

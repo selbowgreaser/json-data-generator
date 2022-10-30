@@ -2,6 +2,40 @@ from model import Driver
 
 
 class Vehicle:
+    """
+    Класс для объекта Driver.
+
+    ...
+
+    Attributes
+    ----------
+    guid : str
+       guid транспортного средства
+    start_date : str
+       дата начала эксплуатации транспортного средства
+    brand : int (default = None)
+       марка транспортного средства
+    end_date : str (default = None)
+        дата окончания эксплуатации транспортного средства
+    status : str (default = None)
+       статус эксплуатации транспортного средства
+    vehicle_type (default = None)
+        тип транспортного средства
+    driver : Driver (default = None)
+        объект водителя транспортного средства
+
+    Methods
+    -------
+    set_end_date(end_date):
+       Устанавливает дату начала эксплуатации транспортного средства для объекта Vehicle.
+    set_status(status):
+       Устанавливает статус эксплуатации транспортного средства для объекта Vehicle.
+    set_vehicle_type(vehicle_type):
+       Устанавливает тип транспортного средства для объекта Vehicle.
+    set_driver(driver):
+       Устанавливает объект водителя транспортного средства для объекта Vehicle.
+    """
+
     def __init__(self,
                  guid: str,
                  start_date: str,
@@ -24,7 +58,7 @@ class Vehicle:
     def set_status(self, status: str):
         self.status = status
 
-    def set_type(self, vehicle_type: str):
+    def set_vehicle_type(self, vehicle_type: str):
         self.vehicle_type = vehicle_type
 
     def set_driver(self, driver: Driver):

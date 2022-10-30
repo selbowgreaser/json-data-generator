@@ -6,6 +6,24 @@ LENGTH_NUMBER = 12
 
 
 class PhoneNumberGenerator:
+    """
+    Класс для генерации случайного значения телефонного номера водителя.
+
+    ...
+
+    Attributes
+    ----------
+    country_code : str (default = COUNTRY_CODE)
+        код страны телефонного номера
+    length_number : int (default = LENGTH_NUMBER)
+        длина телефонного номера
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение телефонного номера водителя.
+    """
+
     def __init__(self,
                  country_code: str = COUNTRY_CODE,
                  length_number: int = LENGTH_NUMBER):

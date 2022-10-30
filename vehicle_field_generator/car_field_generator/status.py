@@ -7,6 +7,24 @@ DEFAULT_OFF_STATUSES = ("Снят с эксплуатации",)
 
 
 class StatusGenerator:
+    """
+    Класс для генерации случайного значения статуса эксплуатации транспортного средства.
+
+    ...
+
+    Attributes
+    ----------
+    available_active_statuses : tuple (default = DEFAULT_ACTIVE_STATUSES)
+        коллекция доступных значений активных статусов
+    available_off_statuses : tuple (default = DEFAULT_OFF_STATUSES)
+        коллекция доступных значений не активных статусов
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение статуса эксплуатации транспортного средства.
+    """
+
     def __init__(self,
                  available_active_statuses: tuple = DEFAULT_ACTIVE_STATUSES,
                  available_off_statuses: tuple = DEFAULT_OFF_STATUSES):

@@ -10,6 +10,30 @@ PATH = r"json\\vehicle"
 
 
 class JsonCreator:
+    """
+    Класс для создания JSON файлов.
+
+    ...
+
+    Attributes
+    ----------
+    vehicle_generator : VehicleGenerator
+        генератор объектов транспортных средств
+    number_of_objects : int (default = NUMBER_OF_OBJECTS)
+        количество генерируемых объектов
+    number_of_objects_per_file : int (default = NUMBER_OF_OBJECTS_PER_FILE)
+        количество объектов, сохраненных в одном файле
+    path : str (default = PATH)
+        путь до папки, в которой будет лежать json файл(-ы)
+    include_none : bool (default = False)
+        флаг, который отвечает за включение полей со значением null в json-файл
+
+    Methods
+    -------
+    create():
+        Создает json файлы со сгенерированными объектами.
+    """
+
     def __init__(self,
                  vehicle_generator: VehicleGenerator,
                  number_of_objects: int = NUMBER_OF_OBJECTS,

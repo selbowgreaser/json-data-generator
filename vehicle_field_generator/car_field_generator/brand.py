@@ -12,6 +12,22 @@ DEFAULT_BRANDS = (
 
 
 class BrandGenerator:
+    """
+    Класс для случайного выбора марки транспортного средства.
+
+    ...
+
+    Attributes
+    ----------
+    available_brands : tuple (default = DEFAULT_BRANDS)
+        коллекция возможных марок транспортных средств
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение марки транспортного средства.
+    """
+
     def __init__(self,
                  available_brands: tuple = DEFAULT_BRANDS):
         self.available_brands = available_brands

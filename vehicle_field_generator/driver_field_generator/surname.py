@@ -7,6 +7,22 @@ DEFAULT_SURNAMES = (
 
 
 class SurnameGenerator:
+    """
+    Класс для генерации случайного значения фамилии водителя.
+
+    ...
+
+    Attributes
+    ----------
+    available_surnames : tuple (default = DEFAULT_SURNAMES)
+        коллекция доступных фамилий для водителей
+
+    Methods
+    -------
+    generate():
+        Генерирует случайное значение фамилии водителя.
+    """
+
     def __init__(self,
                  available_surnames: tuple = DEFAULT_SURNAMES):
         self.available_surnames = available_surnames
