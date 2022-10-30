@@ -50,22 +50,16 @@ class JsonCreator:
         number_of_files = (self.number_of_objects + self.number_of_objects % self.number_of_objects_per_file) \
                           // self.number_of_objects_per_file
         for num in range(1, number_of_files + 1):
-            if number_of_files != 1:
-                with open(fr'{self.path}{num}.json', mode='w+') as file:
-                    vehicles = [self.vehicle_generator.generate() for _ in range(self.number_of_objects_per_file)]
-                    json.dump(vehicles,
-                              file,
-                              default=lambda obj: obj.__getstate__(self.include_none),
-                              indent=4,
-                              ensure_ascii=False)
-            else:
-                with open(fr'{self.path}.json', mode='w+') as file:
-                    vehicles = [self.vehicle_generator.generate() for _ in range(self.number_of_objects_per_file)]
-                    json.dump(vehicles,
-                              file,
-                              default=lambda obj: obj.__getstate__(self.include_none),
-                              indent=4,
-                              ensure_ascii=False)
+            filepath = f'{self.path}{num}.json'
+            if number_of_files == 1:
+                filepath = f'{self.path}.json'
+            vehicles = [self.vehicle_generator.generate() for _ in range(self.number_of_objects_per_file)]
+            with open(filepath, mode='w+') as file:
+                json.dump(vehicles,
+                          file,
+                          default=lambda obj: obj.__getstate__(self.include_none),
+                          indent=4,
+                          ensure_ascii=False)
 
 
 if __name__ == "__main__":
