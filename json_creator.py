@@ -52,7 +52,7 @@ class JsonCreator:
         for num in range(1, number_of_files + 1):
             filepath = f'{self.path}vehicle{num}.json'
             if number_of_files == 1:
-                filepath = f'{self.path}.json'
+                filepath = f'{self.path}vehicle.json'
             vehicles = [self.vehicle_generator.generate() for _ in range(self.number_of_objects_per_file)]
             with open(filepath, mode='w+') as file:
                 json.dump(vehicles,
@@ -79,6 +79,6 @@ if __name__ == "__main__":
                 PhoneNumberGenerator()
             )
         ),
-        include_none=True
+        include_none=False
     )
     json_creator.create()
