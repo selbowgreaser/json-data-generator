@@ -10,7 +10,7 @@ class Driver:
        имя водителя
     surname : str
        фамилия водителя
-    age : int (default = None)
+    age : int
        возраста водителя
     middle_name : str (default = None)
        отчество водителя
@@ -28,7 +28,7 @@ class Driver:
     def __init__(self,
                  name: str,
                  surname: str,
-                 age: int = None,
+                 age: int,
                  middle_name: str = None,
                  phone_number: str = None):
         self.name = name
