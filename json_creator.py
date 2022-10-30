@@ -6,7 +6,7 @@ from vehicle_field_generator.driver_field_generator import *
 
 NUMBER_OF_OBJECTS = 100
 NUMBER_OF_OBJECTS_PER_FILE = 100
-PATH = r"json\\vehicle"
+PATH = r"json\\"
 
 
 class JsonCreator:
@@ -50,7 +50,7 @@ class JsonCreator:
         number_of_files = (self.number_of_objects + self.number_of_objects % self.number_of_objects_per_file) \
                           // self.number_of_objects_per_file
         for num in range(1, number_of_files + 1):
-            filepath = f'{self.path}{num}.json'
+            filepath = f'{self.path}vehicle{num}.json'
             if number_of_files == 1:
                 filepath = f'{self.path}.json'
             vehicles = [self.vehicle_generator.generate() for _ in range(self.number_of_objects_per_file)]
