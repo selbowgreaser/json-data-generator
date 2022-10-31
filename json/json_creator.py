@@ -1,12 +1,13 @@
 import json
 
-from vehicle_field_generator import VehicleGenerator, DriverGenerator
-from vehicle_field_generator.car_field_generator import *
-from vehicle_field_generator.driver_field_generator import *
+from generator.common.guid import *
+from generator.vehicle import *
+from generator.vehicle.car_field import *
+from generator.vehicle.driver_field import *
 
-NUMBER_OF_OBJECTS = 100
-NUMBER_OF_OBJECTS_PER_FILE = 100
-PATH = r"json\\"
+NUMBER_OF_OBJECTS = 10
+NUMBER_OF_OBJECTS_PER_FILE = 10
+PATH = r"\\"
 
 
 class JsonCreator:
@@ -79,6 +80,6 @@ if __name__ == "__main__":
                 PhoneNumberGenerator()
             )
         ),
-        include_none=False
+        include_none=True
     )
     json_creator.create()

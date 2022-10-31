@@ -1,7 +1,7 @@
 import random
 
 from model import Driver
-from vehicle_field_generator.driver_field_generator import *
+from generator.vehicle.driver_field import *
 
 
 class DriverGenerator:

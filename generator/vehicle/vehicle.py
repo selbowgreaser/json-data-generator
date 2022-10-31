@@ -1,8 +1,9 @@
 import random
 
+from generator.common import GuidGenerator
 from model.vehicle import Vehicle
-from vehicle_field_generator import DriverGenerator
-from vehicle_field_generator.car_field_generator import *
+from generator.vehicle import DriverGenerator
+from generator.vehicle.car_field import *
 
 
 class VehicleGenerator:
