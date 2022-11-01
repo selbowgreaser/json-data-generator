@@ -72,7 +72,11 @@ class Vehicle:
 
 
 if __name__ == "__main__":
+    driver = Driver("Alex",
+                    "Frol",
+                    22)
     vehicle = Vehicle("12345",
                       "1977-05-25",
                       "Ока")
+    vehicle.set_driver(driver)
     print(vehicle)

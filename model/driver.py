@@ -43,6 +43,9 @@ class Driver:
     def set_phone_number(self, phone_number: str):
         self.phone_number = phone_number
 
+    def __str__(self):
+        return str(self.__dict__)
+
     def __getstate__(self, include_none=True):
         return {key: value for key, value in self.__dict__.items() if include_none or value}
 
