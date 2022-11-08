@@ -11,5 +11,5 @@ python app.exe /s [количество сообщений] /i [интервал
 Пример запуска приложения:
 
 ```shell
-python app.py /s 100 /i 5 /t topicname /b localhost:1111,localhost2222 /n Y
+python app.py /s 100 /i 5 /t topicname /b localhost:1111,localhost:2222 /n Y
 ```
