@@ -7,7 +7,7 @@ from generator.vehicle.driver_field import *
 
 NUMBER_OF_OBJECTS = 10
 NUMBER_OF_OBJECTS_PER_FILE = 10
-PATH = r"\\"
+PATH = r""
 
 
 class JsonCreator:
