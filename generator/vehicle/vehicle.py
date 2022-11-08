@@ -54,7 +54,8 @@ class VehicleGenerator:
     def generate(self) -> Vehicle:
         new_vehicle = Vehicle(guid=self.guid_generator.generate(),
                               start_date=self.start_date_generator.generate(),
-                              brand=self.brand_generator.generate())
+                              brand=self.brand_generator.generate(),
+                              driver=self.driver_generator.generate())
 
         if random.choice((True, False)):
             new_vehicle.set_status(self.status_generator.generate(new_vehicle.end_date))
@@ -64,8 +65,5 @@ class VehicleGenerator:
 
         if random.choice((True, False)):
             new_vehicle.set_end_date(self.end_date_generator.generate(new_vehicle.start_date))
-
-        if random.choice((True, False)):
-            new_vehicle.set_driver(self.driver_generator.generate())
 
         return new_vehicle
