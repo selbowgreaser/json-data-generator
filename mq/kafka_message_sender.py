@@ -21,9 +21,7 @@ class KafkaMessageSender:
 
     def send(self, value):
         producer = KafkaProducer(bootstrap_servers=self.kafka_brokers,
-                                 value_serializer=lambda x: print(bytes(
-                                     json.dumps(x, default=lambda obj: obj.__getstate__(self.include_none)),
-                                     "utf-8")),
+                                 value_serializer=lambda x: bytes(json.dumps(x, default=lambda obj: obj.__getstate__(self.include_none)), "utf-8"),
                                  key_serializer=lambda x: bytes(x, 'utf-8'),
                                  max_request_size=100001200)
         producer.send(self.kafka_topic, key=self.kafka_key_generator.generate(), value=value).get()
