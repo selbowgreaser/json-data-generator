@@ -8,8 +8,8 @@ class MqCreator:
     def __init__(self,
                  kafka_message_sender: KafkaMessageSender,
                  vehicle_generator: VehicleGenerator,
-                 mq_size: int = 999,
-                 time_interval: int = 0,
+                 mq_size: int,
+                 time_interval: int,
                  ):
         self.kafka_message_sender = kafka_message_sender
         self.vehicle_generator = vehicle_generator
@@ -17,7 +17,8 @@ class MqCreator:
         self.time_interval = time_interval
 
     def run(self):
-        for _ in range(self.mq_size):
+        for i in range(1, self.mq_size + 1):
             value = self.vehicle_generator.generate()
             self.kafka_message_sender.send(value)
+            print(f"\rОтправлено сообщений: {i}", end='')
             time.sleep(self.time_interval)
