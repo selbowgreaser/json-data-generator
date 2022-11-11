@@ -1,7 +1,7 @@
 from args_parser import ArgsParser
-from mq import *
-from generator.common.guid import *
-from generator.vehicle import *
+from mq import MqCreator, KafkaMessageSender
+from generator.common import GuidGenerator, KafkaKeyGenerator
+from generator.vehicle import VehicleGenerator, DriverGenerator
 from generator.vehicle.car_field import *
 from generator.vehicle.driver_field import *
 
