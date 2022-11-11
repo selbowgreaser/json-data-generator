@@ -2,7 +2,7 @@ import json
 
 from kafka import KafkaProducer
 
-from mq import KafkaKeyGenerator
+from generator.common import KafkaKeyGenerator
 
 KAFKA_TOPIC = 'default_topic'
 KAFKA_BROKERS = ('localhost:29092',)
