@@ -22,4 +22,7 @@ class ArgsParser:
         if "/n" in argv:
             include_none_index = argv.index("/n") + 1
             kwargs.update({"include_none": True if argv[include_none_index] == 'Y' else False})
+        if "/l" in argv:
+            has_logging = argv.index("/l") + 1
+            kwargs.update({"has_logging": True if argv[has_logging] == 'Y' else False})
         return kwargs
